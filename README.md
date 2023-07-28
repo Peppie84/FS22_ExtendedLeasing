@@ -23,8 +23,13 @@
 
 </div>
 
+## Credits
+* Sqeep
+
 # Copyright
 Copyright (c) 2023 [Dennis Schmitt](https://github.com/peppie84).
 All rights reserved.
+
+Andere Landwirtschafts-Simulator 22 Mods von mir: https://github.com/stars/Peppie84/lists/landwirtschafts-simulator-22 :tractor:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
