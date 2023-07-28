@@ -11,7 +11,7 @@ local modDirectory = g_currentModDirectory or ''
 ---@type string name of the mod.
 local modName = g_currentModName or 'unknown'
 
-source(modDirectory .. 'src/SellVehicleEventExtended.lua')
+source(modDirectory .. 'src/events/SellVehicleEventExtended.lua')
 
 ---Mission00 is loading
 ---@param mission table (Mission00)
