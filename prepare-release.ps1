@@ -3,6 +3,7 @@
 #
 $modDirectory = Split-Path -Path $pwd -Leaf
 $modName = "$modDirectory";
+$origModName = $modName
 $modDescFileName = "$modDirectory/modDesc.xml"
 $testRunnerLogPath = ".\.testrunner\"
 $readmeFilePath = "README.md"
@@ -20,7 +21,6 @@ if (([string]::IsNullOrEmpty($newVersion)))
 # Check if we have a update version
 if ( $newVersion -ne "1.0.0.0" )
 {
-    $origModName = $modName
     $modName = "$($modName)_update"
 }
 
