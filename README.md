@@ -16,7 +16,9 @@
 
 <p align="center">
     Schluss damit die Schlepper und Geräte des Händlers kaputt zu fahren und dafür nicht belangt zu werden.<br />
-    Mit dieser Mod müsst ihr die Reperaturkosten bei der Rückgabe des Schleppers oder Gerätes bezahlen. Dafür bekommst du die Basiskosten (Kaution) die Anfangs bezahlt wurde, wieder zurück.
+    Mit dieser Mod müsst ihr die Reperaturkosten bei der Rückgabe des Schleppers oder Gerätes bezahlen.<br />
+    <br />
+    Dafür bekommst du die Basiskosten (Kaution) die Anfangs bezahlt wurde, wieder zurück.
 </p>
 
 </div>
