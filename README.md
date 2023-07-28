@@ -6,7 +6,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/Peppie84/FS22_BaseCostsReturnAndRepairCostsForLeasing?style=flat-square)](https://github.com/Peppie84/FS22_BaseCostsReturnAndRepairCostsForLeasing/issues)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![Last commit](https://img.shields.io/github/last-commit/Peppie84/FS22_BaseCostsReturnAndRepairCostsForLeasing?style=flat-square&color=important)](https://github.com/Peppie84/FS22_BaseCostsReturnAndRepairCostsForLeasing/commits/development)
-[![Top language](https://img.shields.io/github/languages/top/Peppie84/FS22_BaseCostsReturnAndRepairCostsForLeasing?style=flat-square&color=blueviolet)](https://github.com/search?q=repo%3APeppie84%2FFS22_BaseCostsReturnAndRepairCostsForLeasing++language%3ALua&type=code)
 
 
 <br />
