@@ -10,12 +10,13 @@
 
 <br />
 
-<img src="documents/icon_DepAndRepCostForLeasing.jpg" style="width: 128px;">
+<img src="documents/icon_BaCoReAndReCoForLeasing.jpg" style="width: 128px;">
 
-<h3 align="center"><u>FS22_DepositAndRepairCostsForLeasing</u></h3>
+<h3 align="center"><u>FS22_BaseCostsReturnAndRepairCostsForLeasing</u></h3>
 
 <p align="center">
-    Kaution und Reperaturkosten beim leasing von Geräten
+    Schluss damit die Schlepper und Geräte des Händlers kaputt zu fahren und dafür nicht belangt zu werden.<br />
+    Mit dieser Mod müsst ihr die Reperaturkosten bei der Rückgabe des Schleppers oder Gerätes bezahlen. Dafür bekommst du die Basiskosten (Kaution) die Anfangs bezahlt wurde, wieder zurück.
 </p>
 
 </div>
