@@ -8,7 +8,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![Last commit](https://img.shields.io/github/last-commit/Peppie84/FS22_ExtendedLeasing?style=flat-square&color=important)](https://github.com/Peppie84/FS22_ExtendedLeasing/commits/development)
 
-
 <br />
 
 <img src="documents/icon_BaCoReAndReCoForLeasing.jpg" style="width: 128px;">
