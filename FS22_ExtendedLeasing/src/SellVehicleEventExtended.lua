@@ -4,7 +4,7 @@
 -- Extend the SellVehicleEvent to add the base cost return and repair costs
 --
 -- Copyright (c) Peppie84, 2023
--- https://github.com/Peppie84/FS22_BaseCostsReturnAndRepairCostsForLeasing
+-- https://github.com/Peppie84/FS22_ExtendedLeasing
 --
 SellVehicleEventExtended = {}
 
