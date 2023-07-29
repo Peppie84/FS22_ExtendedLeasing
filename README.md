@@ -10,7 +10,7 @@
 
 <br />
 
-<img src="documents/icon_BaCoReAndReCoForLeasing.jpg" style="width: 128px;">
+<img src="documents/icon_ExtendedLeasing.jpg" style="width: 128px;">
 
 <h3 align="center"><u>FS22_ExtendedLeasing</u></h3>
 
@@ -19,6 +19,10 @@
     Mit dieser Mod müsst ihr die Reperaturkosten bei der Rückgabe des Schleppers oder Gerätes bezahlen.<br />
     <br />
     Dafür bekommst du die Basiskosten (Kaution) die Anfangs bezahlt wurde, wieder zurück.
+</p>
+
+<p align="center">
+    <img src="documents/screen1.png" style="width: 50%;">
 </p>
 
 </div>
