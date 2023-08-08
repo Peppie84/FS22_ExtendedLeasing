@@ -4,14 +4,14 @@
 -- Initialize SellVehicleEventExtended
 --
 -- Copyright (c) Peppie84, 2023
--- https://github.com/Peppie84/FS22_DepositAndRepairCostsForLeasing
+-- https://github.com/Peppie84/FS22_ExtendedLeasing
 --
 ---@type string directory of the mod.
 local modDirectory = g_currentModDirectory or ''
 ---@type string name of the mod.
 local modName = g_currentModName or 'unknown'
 
-source(modDirectory .. 'src/SellVehicleEventExtended.lua')
+source(modDirectory .. 'src/events/SellVehicleEventExtended.lua')
 
 ---Mission00 is loading
 ---@param mission table (Mission00)
