@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<modDesc descVersion="76">
+<modDesc descVersion="80">
   <author>Peppie84</author>
   <version>1.0.0.0</version>
   <title>
@@ -8,18 +8,26 @@
   </title>
   <description>
     <en><![CDATA[Stop with breaking down the dealer's tractors and equipment and not having to pay for it.
-With this mod you have to pay the repair costs when you return the tractor or equipment.
+With this mod you have to pay the repair costs when you return the tractor or equipment. Additionally you've to pay washing costs, max 30% of the basic costs (deposit), for a dirty tractor or equipment.
 
 For this you get back the basic costs (deposit) that was paid at the beginning.
+
+Changelog v1.1.0.0
+- You have to pay washing costs for dirty tractors or equipments
+- Moddesc version update
 
 For more information, help, and reporting issues please visit <a href='https://github.com/Peppie84/FS22_ExtendedLeasing'>GitHub</a>.
 ]]></en>
     <de><![CDATA[Schluss damit die Schlepper und Geräte des Händlers kaputt zu fahren und dafür nicht belangt zu werden.
-Mit dieser Mod müsst ihr die Reperaturkosten bei der Rückgabe des Schleppers oder Gerätes bezahlen.
+Mit dieser Mod müsst ihr die Reperaturkosten bei der Rückgabe des Schleppers oder Gerätes bezahlen. Zusätzlich fallen Reinigungskosten, maximal 30% von den Basiskosten (Kaution), an wenn der Schlepper / das Gerät dreckig abgegeben wird.
 
 Dafür bekommst du die Basiskosten (Kaution) die Anfangs bezahlt wurde, wieder zurück.
 
-Weitere Informationen, Hilfe und Probleme melden finden Sie unter <a href='https://github.com/Peppie84/FS22_ExtendedLeasing'>GitHub</a>.
+Changelog v1.1.0.0
+- Reinigungsgebühr muss bezahlt werden wenn der Schlepper / das Gerät dreckig abgegeben werden
+- Moddesc version aktualisiert
+
+Weitere Informationen, Hilfe und Probleme melden findest Du unter <a href='https://github.com/Peppie84/FS22_ExtendedLeasing'>GitHub</a>.
 ]]></de>
   </description>
   <iconFilename>icon_ExtendedLeasing.dds</iconFilename>
@@ -27,4 +35,14 @@ Weitere Informationen, Hilfe und Probleme melden finden Sie unter <a href='https
   <extraSourceFiles>
     <sourceFile filename="src/main.lua" />
   </extraSourceFiles>
+  <l10n>
+    <text name="base_costs">
+      <en>Leasing Base Costs</en>
+      <de>Leasing-Kaution</de>
+    </text>
+    <text name="washing_costs">
+      <en>Washing Costs</en>
+      <de>Reinigungsgebühr</de>
+    </text>
+  </l10n>
 </modDesc>
