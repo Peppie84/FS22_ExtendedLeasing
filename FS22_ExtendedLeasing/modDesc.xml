@@ -37,8 +37,8 @@ Weitere Informationen, Hilfe und Probleme melden findest Du unter <a href='https
   </extraSourceFiles>
   <l10n>
     <text name="base_costs">
-      <en>Leasing Base Costs</en>
-      <de>Leasing-Kaution</de>
+      <en>Base Costs Return</en>
+      <de>Kaution zurück</de>
     </text>
     <text name="washing_costs">
       <en>Washing Costs</en>
