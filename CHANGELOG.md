@@ -6,8 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## [Unreleased]
 
 
-## [v1.1.0.0] - (waiting to mod hub)
-- You have to pay washing costs for dirty tractors or equipments
+## [v1.1.0.0] - 2024-09-11
+- You have to pay washing costs for dirty tractors and equipments
 - Moddesc version update
 
 ## [v1.0.0.0] - 2023-08-08
