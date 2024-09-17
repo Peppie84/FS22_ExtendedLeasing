@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <modDesc descVersion="80">
   <author>Peppie84</author>
-  <version>1.0.0.0</version>
+  <version>1.1.0.0</version>
   <title>
     <en>Extended Leasing</en>
     <de>Erweitertes Leasing</de>
@@ -13,7 +13,7 @@ With this mod you have to pay the repair costs when you return the tractor or eq
 For this you get back the basic costs (deposit) that was paid at the beginning.
 
 Changelog v1.1.0.0
-- You have to pay washing costs for dirty tractors or equipments
+- You have to pay washing costs for dirty tractors and equipments
 - Moddesc version update
 
 For more information, help, and reporting issues please visit <a href='https://github.com/Peppie84/FS22_ExtendedLeasing'>GitHub</a>.
@@ -37,8 +37,8 @@ Weitere Informationen, Hilfe und Probleme melden findest Du unter <a href='https
   </extraSourceFiles>
   <l10n>
     <text name="base_costs">
-      <en>Leasing Base Costs</en>
-      <de>Leasing-Kaution</de>
+      <en>Base Costs Return</en>
+      <de>Kaution zurück</de>
     </text>
     <text name="washing_costs">
       <en>Washing Costs</en>
