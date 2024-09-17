@@ -15,10 +15,11 @@
 <h3 align="center"><u>FS22_ExtendedLeasing</u></h3>
 
 <p align="center">
-    Schluss damit die Schlepper und Geräte des Händlers kaputt zu fahren und dafür nicht belangt zu werden.<br />
-    Mit dieser Mod müsst ihr die Reperaturkosten bei der Rückgabe des Schleppers oder Gerätes bezahlen.<br />
+    Stop with breaking down the dealer's tractors and equipment and not having to pay for it.
     <br />
-    Dafür bekommst du die Basiskosten (Kaution) die Anfangs bezahlt wurde, wieder zurück.
+    With this mod you have to pay the repair costs when you return the tractor or equipment. Additionally you've to pay washing costs, max 30% of the basic costs (deposit), for a dirty tractor or equipment.
+    <br />
+    For this you get back the basic costs (deposit) that was paid at the beginning.
 </p>
 
 <p align="center">
@@ -34,7 +35,7 @@
 * Sqeep
 
 # Copyright
-Copyright (c) 2023 [Dennis Schmitt](https://github.com/peppie84).
+Copyright (c) 2023-2024 [Dennis Schmitt](https://github.com/peppie84).
 All rights reserved.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
