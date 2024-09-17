@@ -22,6 +22,12 @@ end
 --- Initialize the mod
 local function init()
     Mission00.load = Utils.prependedFunction(Mission00.load, preLoad)
+
+    if MoneyType ~= nil then
+        MoneyType.BASECOSTS = MoneyType.register('other', 'base_costs', modName)
+        MoneyType.WASHINGCOSTS = MoneyType.register('other', 'washing_costs', modName)
+        MoneyType.LAST_ID = MoneyType.LAST_ID + 2
+    end
 end
 
 init()

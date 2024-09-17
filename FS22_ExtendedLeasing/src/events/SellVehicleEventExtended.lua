@@ -23,11 +23,24 @@ function SellVehicleEventExtended:run(overwrittenFunc, connection)
                 if farmId ~= nil and farmId ~= FarmManager.SPECTATOR_FARM_ID and farm ~= nil then
                     local vehiclePrice = self.vehicle:getPrice()
                     local depositReturn = MathUtil.round(vehiclePrice * EconomyManager.DEFAULT_LEASING_DEPOSIT_FACTOR, 0)
+                    local maxWashingCosts = depositReturn * 0.3
+                    local washingCosts = 0
 
-                    farm:changeBalance(depositReturn, MoneyType.OTHER)
-                    g_currentMission:addMoneyChange(depositReturn, farmId, MoneyType.OTHER, true)
+                    if self.vehicle.getDirtAmount then
+                        washingCosts = maxWashingCosts * math.min(self.vehicle:getDirtAmount(), 1)
+                    end
+
+                    if MoneyType.BASECOSTS ~= nil then
+                        farm:changeBalance(depositReturn, MoneyType.BASECOSTS)
+                        g_currentMission:addMoneyChange(depositReturn, farmId, MoneyType.BASECOSTS, true)
+                    end
 
                     self.vehicle:repairVehicle(nil)
+
+                    if washingCosts > 0 and MoneyType.WASHINGCOSTS ~= nil then
+                        farm:changeBalance(-washingCosts, MoneyType.WASHINGCOSTS)
+                        g_currentMission:addMoneyChange(-washingCosts, farmId, MoneyType.WASHINGCOSTS, true)
+                    end
                 end
             end
         end
